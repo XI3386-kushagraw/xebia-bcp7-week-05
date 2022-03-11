@@ -27,6 +27,8 @@ public class UserLogin extends HttpServlet {
 		
 		if(pass.equals("kushagra")) {
 			out.write("Welcome here "+name);
+			out.write("Username :- "+name);
+			out.write("Password :- "+pass);
 		}
 		else {
 			out.write("Try again later");
