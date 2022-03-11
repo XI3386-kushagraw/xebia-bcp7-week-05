@@ -14,6 +14,6 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="lib" path="C:/Users/Kushagra.Wadhwa/Downloads/mysql-connector-java-5.1.37/mysql-connector-java-5.1.37/mysql-connector-java-8.0.11.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Kushagra.Wadhwa/Downloads/mysql-connector-java-5.1.37/mysql-connector-java-5.1.37/mysql-connector-java-5.1.37-bin.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/xebia-bcp7-week-05-master"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
